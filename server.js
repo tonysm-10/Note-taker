@@ -11,6 +11,11 @@ app.use(express.json());
 
 // Define API routes
 // ...
+app.get('/', (req, res) => {
+  // Use res.sendFile() to send the notes.html file
+  res.sendFile(path.join(__dirname, 'public/index.html'));
+});
+
 app.get('/notes', (req, res) => {
   // Use res.sendFile() to send the notes.html file
   res.sendFile(path.join(__dirname, 'public/notes.html'));
