@@ -53,10 +53,13 @@ Happy note-taking with Note Taker!
   ## Tests
   
  N/A
+ 
   ## Questions
 
   How to reach me? 
 
   Any further questions please contact me at ayalaarellanoanthony@gmail.com
+
+  You can also check out my [GitHub profile](https://github.com/tonysm-10) for more projects.
 
  
